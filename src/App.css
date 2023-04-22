@@ -1,0 +1,33 @@
+* {
+    font-weight: 800;
+    margin: 0 5px;
+    color: darkcyan;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.App {
+    text-align: center;
+}
+
+div {
+    padding: 10px;
+}
+
+select {
+    padding: 5px;
+    border-radius: 3px;
+    background-color: rgb(243, 183, 140);
+    border: 2px solid brown;
+}
+
+textarea {
+    background-color: rgb(241, 213, 176);
+    border: 2px solid brown;
+    border-radius: 3px;
+}
+
+button {
+    background-color: rgb(245, 92, 92);
+    padding: 10px;
+    border-radius: 5px;
+}
